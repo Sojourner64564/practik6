@@ -1,0 +1,1652 @@
+[
+ {
+  "type": "speech",
+  "label": "Паламина будут укладывать на стяжку, начинаем с укладки под ложки.",
+  "start": 0.0,
+  "end": 3.24,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000060.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.24
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.34",
+  "start": 1.0,
+  "end": 1.0,
+  "confidence": 0.658,
+  "frame": "data/frames/net_89f5c442b6/0000030.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Здесь нужно только обратить внимание на поверхность под ложки.",
+  "start": 3.24,
+  "end": 6.24,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000150.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "speech",
+  "label": "Если вот она рифленная, как здесь, то рифленная сторона и укладывается вниз.",
+  "start": 6.24,
+  "end": 10.28,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000240.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.04
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 8.0,
+  "end": 11.0,
+  "confidence": 0.622,
+  "frame": "data/frames/net_89f5c442b6/0000300.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.59",
+  "start": 8.0,
+  "end": 8.0,
+  "confidence": 0.412,
+  "frame": "data/frames/net_89f5c442b6/0000240.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Во время укладки под ложки удобно пользоваться,",
+  "start": 10.28,
+  "end": 12.4,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000330.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.12
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 12.0,
+  "end": 15.0,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000420.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "speech",
+  "label": "малярным скотчем для того, чтобы фиксировать.",
+  "start": 12.4,
+  "end": 14.64,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000420.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.24
+ },
+ {
+  "type": "speech",
+  "label": "Нужно обачитать количество полос на комнату.",
+  "start": 14.64,
+  "end": 17.16,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000480.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.52
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.56",
+  "start": 15.0,
+  "end": 15.0,
+  "confidence": 0.442,
+  "frame": "data/frames/net_89f5c442b6/0000450.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Замеряем ширину одной полоски, без учёта за хка, 19 и 2.",
+  "start": 17.16,
+  "end": 21.6,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000570.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.44
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.21",
+  "start": 18.0,
+  "end": 18.0,
+  "confidence": 0.794,
+  "frame": "data/frames/net_89f5c442b6/0000540.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Потом замеряем ширину комнаты.",
+  "start": 21.6,
+  "end": 23.2,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000660.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.6
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.60",
+  "start": 22.0,
+  "end": 22.0,
+  "confidence": 0.404,
+  "frame": "data/frames/net_89f5c442b6/0000660.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 23.0,
+  "end": 27.0,
+  "confidence": 0.634,
+  "frame": "data/frames/net_89f5c442b6/0000690.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.0
+ },
+ {
+  "type": "speech",
+  "label": "Вот стены, дустины.",
+  "start": 23.2,
+  "end": 24.4,
+  "confidence": 0.674,
+  "frame": "data/frames/net_89f5c442b6/0000720.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.2
+ },
+ {
+  "type": "speech",
+  "label": "Ну, на скомната почти 3 метров, верен в ширину комнаты,",
+  "start": 24.4,
+  "end": 27.8,
+  "confidence": 0.603,
+  "frame": "data/frames/net_89f5c442b6/0000780.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.4
+ },
+ {
+  "type": "speech",
+  "label": "у нас 299 сантиметров, и делим на ширину полоски от номината.",
+  "start": 27.8,
+  "end": 32.82,
+  "confidence": 0.603,
+  "frame": "data/frames/net_89f5c442b6/0000900.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 5.02
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 28.0,
+  "end": 31.0,
+  "confidence": 0.608,
+  "frame": "data/frames/net_89f5c442b6/0000870.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.33",
+  "start": 32.0,
+  "end": 32.0,
+  "confidence": 0.671,
+  "frame": "data/frames/net_89f5c442b6/0000960.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Значит, 299, поделите на 19-ти два.",
+  "start": 32.82,
+  "end": 36.36,
+  "confidence": 0.603,
+  "frame": "data/frames/net_89f5c442b6/0001050.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.54
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.57",
+  "start": 34.0,
+  "end": 34.0,
+  "confidence": 0.433,
+  "frame": "data/frames/net_89f5c442b6/0001020.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Получается 15 полосок с половиной.",
+  "start": 36.36,
+  "end": 38.66,
+  "confidence": 0.603,
+  "frame": "data/frames/net_89f5c442b6/0001140.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.3
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.21",
+  "start": 37.0,
+  "end": 37.0,
+  "confidence": 0.789,
+  "frame": "data/frames/net_89f5c442b6/0001110.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Поломинка полоски, это у нас грубо говоря, 10антиметров.",
+  "start": 38.66,
+  "end": 41.54,
+  "confidence": 0.603,
+  "frame": "data/frames/net_89f5c442b6/0001200.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.88
+ },
+ {
+  "type": "speech",
+  "label": "10антиметров, если у нас, оставим сострою, вот здесь вот это очень плохо.",
+  "start": 41.54,
+  "end": 46.34,
+  "confidence": 0.603,
+  "frame": "data/frames/net_89f5c442b6/0001320.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.8
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.33",
+  "start": 44.0,
+  "end": 44.0,
+  "confidence": 0.667,
+  "frame": "data/frames/net_89f5c442b6/0001320.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.55",
+  "start": 46.0,
+  "end": 46.0,
+  "confidence": 0.448,
+  "frame": "data/frames/net_89f5c442b6/0001380.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Это очень узенькая полоска, нам нужно сделать ее пошири.",
+  "start": 46.34,
+  "end": 49.2,
+  "confidence": 0.603,
+  "frame": "data/frames/net_89f5c442b6/0001440.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.86
+ },
+ {
+  "type": "speech",
+  "label": "Ифина для этого делается предварительно расчёт.",
+  "start": 49.2,
+  "end": 51.42,
+  "confidence": 0.603,
+  "frame": "data/frames/net_89f5c442b6/0001500.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.22
+ },
+ {
+  "type": "speech",
+  "label": "Мы первую полоску, который начинаем делаем на ней подрез, то есть дело в ее погружи,",
+  "start": 51.42,
+  "end": 56.06,
+  "confidence": 0.653,
+  "frame": "data/frames/net_89f5c442b6/0001620.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.64
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.55",
+  "start": 55.0,
+  "end": 55.0,
+  "confidence": 0.452,
+  "frame": "data/frames/net_89f5c442b6/0001650.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "то есть получается весь ламина, то он сдвигается туда, и у нас 100 страны получается полоска поширя.",
+  "start": 56.06,
+  "end": 62.9,
+  "confidence": 0.653,
+  "frame": "data/frames/net_89f5c442b6/0001770.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 6.84
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 59.0,
+  "end": 62.0,
+  "confidence": 0.871,
+  "frame": "data/frames/net_89f5c442b6/0001770.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.56",
+  "start": 59.0,
+  "end": 59.0,
+  "confidence": 0.435,
+  "frame": "data/frames/net_89f5c442b6/0001770.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Ламинат имеет два вида, это с фаской, вот такой вот к дивидной швы и бесшовный.",
+  "start": 62.9,
+  "end": 67.3,
+  "confidence": 0.653,
+  "frame": "data/frames/net_89f5c442b6/0001950.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.4
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 64.0,
+  "end": 71.0,
+  "confidence": 0.746,
+  "frame": "data/frames/net_89f5c442b6/0002040.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 7.0
+ },
+ {
+  "type": "speech",
+  "label": "Бесшовный ламинат его укладывать гораздо проще, то есть мы укладываем полоски.",
+  "start": 67.3,
+  "end": 70.78,
+  "confidence": 0.653,
+  "frame": "data/frames/net_89f5c442b6/0002070.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.48
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.48",
+  "start": 70.0,
+  "end": 70.0,
+  "confidence": 0.521,
+  "frame": "data/frames/net_89f5c442b6/0002100.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "И кусочек, который у нас остался, если он больше 25 сантиметров приблизительно, то мы его перемки укладываем в начале",
+  "start": 70.78,
+  "end": 78.62,
+  "confidence": 0.653,
+  "frame": "data/frames/net_89f5c442b6/0002250.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 7.84
+ },
+ {
+  "type": "speech",
+  "label": "и дальше в обладваем следующую фолоску.",
+  "start": 78.62,
+  "end": 80.42,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002400.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.8
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 79.0,
+  "end": 82.0,
+  "confidence": 0.653,
+  "frame": "data/frames/net_89f5c442b6/0002430.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "speech",
+  "label": "Главное, чтобы между вот этими шмами было более 25 000 см.",
+  "start": 80.42,
+  "end": 84.9,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002490.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.48
+ },
+ {
+  "type": "speech",
+  "label": "20 см тоже допустим, но желательно чуть побольше.",
+  "start": 84.9,
+  "end": 87.86,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002580.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.96
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 86.0,
+  "end": 93.0,
+  "confidence": 0.692,
+  "frame": "data/frames/net_89f5c442b6/0002580.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 7.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.22",
+  "start": 86.0,
+  "end": 86.0,
+  "confidence": 0.776,
+  "frame": "data/frames/net_89f5c442b6/0002580.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Что касается ломината с фаской, то этот ломинату",
+  "start": 87.86,
+  "end": 90.06,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002670.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.2
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.34",
+  "start": 89.0,
+  "end": 89.0,
+  "confidence": 0.659,
+  "frame": "data/frames/net_89f5c442b6/0002670.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "пладивается по определенному правилу.",
+  "start": 90.06,
+  "end": 91.54,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002730.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.48
+ },
+ {
+  "type": "speech",
+  "label": "Самые красивые способа кладки, это смещение",
+  "start": 91.54,
+  "end": 94.02,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002790.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.48
+ },
+ {
+  "type": "speech",
+  "label": "на 1-3 ломинат.",
+  "start": 94.02,
+  "end": 95.46,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002850.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.44
+ },
+ {
+  "type": "speech",
+  "label": "При укладке ломината нужно следить",
+  "start": 95.46,
+  "end": 96.78,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002880.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.32
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.34",
+  "start": 96.0,
+  "end": 96.0,
+  "confidence": 0.656,
+  "frame": "data/frames/net_89f5c442b6/0002880.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "затем, чтобы отстены был за зор 5-7 миллиметров достаточно.",
+  "start": 96.78,
+  "end": 99.94,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0002940.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.16
+ },
+ {
+  "type": "speech",
+  "label": "Первое у меня начинало стелые полоски второе.",
+  "start": 99.94,
+  "end": 102.14,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0003030.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.2
+ },
+ {
+  "type": "speech",
+  "label": "Я отрезал кусочек 1-3, а осталось.",
+  "start": 102.14,
+  "end": 105.38,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0003120.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.24
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 103.0,
+  "end": 109.0,
+  "confidence": 0.653,
+  "frame": "data/frames/net_89f5c442b6/0003210.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 6.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.59",
+  "start": 104.0,
+  "end": 104.0,
+  "confidence": 0.412,
+  "frame": "data/frames/net_89f5c442b6/0003120.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "И третья полоска.",
+  "start": 105.38,
+  "end": 106.54,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0003180.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.16
+ },
+ {
+  "type": "speech",
+  "label": "Я отрезаю.",
+  "start": 106.54,
+  "end": 108.06,
+  "confidence": 0.611,
+  "frame": "data/frames/net_89f5c442b6/0003210.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.52
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.53",
+  "start": 107.0,
+  "end": 107.0,
+  "confidence": 0.471,
+  "frame": "data/frames/net_89f5c442b6/0003210.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Уже 1-3.",
+  "start": 108.06,
+  "end": 110.06,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0003270.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.0
+ },
+ {
+  "type": "speech",
+  "label": "Вот так вот, у меня идет смещение с одинаковым шагом, 1-3 полоски.",
+  "start": 110.06,
+  "end": 114.86,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0003360.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.8
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.24",
+  "start": 111.0,
+  "end": 111.0,
+  "confidence": 0.761,
+  "frame": "data/frames/net_89f5c442b6/0003330.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 113.0,
+  "end": 118.0,
+  "confidence": 0.644,
+  "frame": "data/frames/net_89f5c442b6/0003480.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 5.0
+ },
+ {
+  "type": "speech",
+  "label": "И вот такая вот кусочек он остается от целый полоски.",
+  "start": 114.86,
+  "end": 118.18,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0003510.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.32
+ },
+ {
+  "type": "speech",
+  "label": "Его мы укладываем в конце, а к нему,",
+  "start": 118.18,
+  "end": 120.54,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0003570.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.36
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 119.0,
+  "end": 122.0,
+  "confidence": 0.706,
+  "frame": "data/frames/net_89f5c442b6/0003630.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "speech",
+  "label": "вот маленький совсем кусочек отрезаем и в конце он как раз подходит.",
+  "start": 120.54,
+  "end": 123.98,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0003660.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.44
+ },
+ {
+  "type": "speech",
+  "label": "Берем полоску подоминаток и укладываем на предыдущую.",
+  "start": 123.98,
+  "end": 126.42,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0003750.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.44
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.18",
+  "start": 125.0,
+  "end": 125.0,
+  "confidence": 0.818,
+  "frame": "data/frames/net_89f5c442b6/0003750.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Не вставляю замок, просто укладываем здесь,",
+  "start": 126.42,
+  "end": 128.9,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0003840.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.48
+ },
+ {
+  "type": "speech",
+  "label": "убираем стену, пока что за зор здесь не нужен.",
+  "start": 128.9,
+  "end": 131.86,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0003900.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.96
+ },
+ {
+  "type": "speech",
+  "label": "Упираем стену и укладываем вот так вот, чтобы здесь замок не вставлял.",
+  "start": 131.86,
+  "end": 135.7,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0004020.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.84
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.56",
+  "start": 132.0,
+  "end": 132.0,
+  "confidence": 0.437,
+  "frame": "data/frames/net_89f5c442b6/0003960.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Берем следующую полоску.",
+  "start": 135.7,
+  "end": 137.5,
+  "confidence": 0.638,
+  "frame": "data/frames/net_89f5c442b6/0004110.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.8
+ },
+ {
+  "type": "speech",
+  "label": "и соединяем замок, который торцевой.",
+  "start": 137.5,
+  "end": 140.94,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004170.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.44
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.17",
+  "start": 139.0,
+  "end": 139.0,
+  "confidence": 0.828,
+  "frame": "data/frames/net_89f5c442b6/0004170.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Соединяем так вот встагок, делаем, чтобы они были ровно между собой и опускаем.",
+  "start": 140.94,
+  "end": 147.06,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004320.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 6.12
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.21",
+  "start": 147.0,
+  "end": 147.0,
+  "confidence": 0.792,
+  "frame": "data/frames/net_89f5c442b6/0004410.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 148.0,
+  "end": 154.0,
+  "confidence": 0.735,
+  "frame": "data/frames/net_89f5c442b6/0004500.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 6.0
+ },
+ {
+  "type": "speech",
+  "label": "А нас все замок соединился.",
+  "start": 149.58,
+  "end": 152.14,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004530.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.56
+ },
+ {
+  "type": "speech",
+  "label": "Немножко больше по размеру, поэтому берем переворачиваем.",
+  "start": 152.14,
+  "end": 155.58,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004620.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.44
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.36",
+  "start": 154.0,
+  "end": 154.0,
+  "confidence": 0.644,
+  "frame": "data/frames/net_89f5c442b6/0004620.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 155.0,
+  "end": 159.0,
+  "confidence": 0.731,
+  "frame": "data/frames/net_89f5c442b6/0004710.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.0
+ },
+ {
+  "type": "speech",
+  "label": "Так вот, отрезанная сторона, что это.",
+  "start": 156.58,
+  "end": 158.86,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004740.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.28
+ },
+ {
+  "type": "speech",
+  "label": "Отмечаем.",
+  "start": 158.86,
+  "end": 159.9,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004770.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.04
+ },
+ {
+  "type": "speech",
+  "label": "Вот это у нас получается заполнное шлина.",
+  "start": 159.9,
+  "end": 161.42,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004830.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.52
+ },
+ {
+  "type": "speech",
+  "label": "Ну для того, чтобы был зазор, сбок с дрона, ступаем.",
+  "start": 161.42,
+  "end": 163.66,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004890.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.24
+ },
+ {
+  "type": "speech",
+  "label": "Немножко.",
+  "start": 163.66,
+  "end": 164.66,
+  "confidence": 0.529,
+  "frame": "data/frames/net_89f5c442b6/0004920.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.0
+ },
+ {
+  "type": "speech",
+  "label": "И тут мечаем ставим угольник отчерчиваем.",
+  "start": 164.66,
+  "end": 170.18,
+  "confidence": 0.458,
+  "frame": "data/frames/net_89f5c442b6/0005010.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 5.52
+ },
+ {
+  "type": "speech",
+  "label": "И отрезаем это либо церпуляк или боловсим,",
+  "start": 170.18,
+  "end": 174.98,
+  "confidence": 0.458,
+  "frame": "data/frames/net_89f5c442b6/0005190.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.8
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.31",
+  "start": 171.0,
+  "end": 171.0,
+  "confidence": 0.692,
+  "frame": "data/frames/net_89f5c442b6/0005130.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.11",
+  "start": 173.0,
+  "end": 173.0,
+  "confidence": 0.891,
+  "frame": "data/frames/net_89f5c442b6/0005190.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "так как у нас уже получился, теперь берем повосы,",
+  "start": 174.98,
+  "end": 178.38,
+  "confidence": 0.458,
+  "frame": "data/frames/net_89f5c442b6/0005310.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.4
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 176.0,
+  "end": 182.0,
+  "confidence": 0.8,
+  "frame": "data/frames/net_89f5c442b6/0005340.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 6.0
+ },
+ {
+  "type": "speech",
+  "label": "какой-то и сдвигаем вот так, чтобы за зор был и здесь",
+  "start": 178.38,
+  "end": 184.26,
+  "confidence": 0.458,
+  "frame": "data/frames/net_89f5c442b6/0005430.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 5.88
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.03",
+  "start": 182.0,
+  "end": 182.0,
+  "confidence": 0.968,
+  "frame": "data/frames/net_89f5c442b6/0005460.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "loud_peak",
+  "label": "-16.9 dB",
+  "start": 183.0,
+  "end": 183.5,
+  "confidence": 0.507,
+  "frame": "data/frames/net_89f5c442b6/0005490.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.5
+ },
+ {
+  "type": "speech",
+  "label": "и стость прами. Потом мы соединяем вот этот вот за",
+  "start": 184.26,
+  "end": 187.54,
+  "confidence": 0.458,
+  "frame": "data/frames/net_89f5c442b6/0005580.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.28
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.19",
+  "start": 185.0,
+  "end": 185.0,
+  "confidence": 0.815,
+  "frame": "data/frames/net_89f5c442b6/0005550.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "лучше всего вот так вот статяно предыдущий номинат и потом берем",
+  "start": 187.54,
+  "end": 190.74,
+  "confidence": 0.458,
+  "frame": "data/frames/net_89f5c442b6/0005670.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.2
+ },
+ {
+  "type": "speech",
+  "label": "то есть он также приподнимаем и за счет киваем замол.",
+  "start": 190.74,
+  "end": 194.82,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0005790.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.08
+ },
+ {
+  "type": "speech",
+  "label": "Раз за счет молся.",
+  "start": 194.82,
+  "end": 196.54,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0005880.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.72
+ },
+ {
+  "type": "speech",
+  "label": "Двигаемся дальше.",
+  "start": 196.54,
+  "end": 198.54,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0005940.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.0
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 197.0,
+  "end": 203.0,
+  "confidence": 0.696,
+  "frame": "data/frames/net_89f5c442b6/0006000.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 6.0
+ },
+ {
+  "type": "speech",
+  "label": "Здесь приподнимаем опа и все.",
+  "start": 198.54,
+  "end": 201.38,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0006000.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.84
+ },
+ {
+  "type": "speech",
+  "label": "Никто не нужно.",
+  "start": 201.38,
+  "end": 204.02,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0006090.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.64
+ },
+ {
+  "type": "speech",
+  "label": "Никто из них усилий применять тоже не нужно.",
+  "start": 204.02,
+  "end": 206.54,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0006150.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.52
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 205.0,
+  "end": 209.0,
+  "confidence": 0.89,
+  "frame": "data/frames/net_89f5c442b6/0006240.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.58",
+  "start": 205.0,
+  "end": 205.0,
+  "confidence": 0.417,
+  "frame": "data/frames/net_89f5c442b6/0006150.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Все легко за счетывается.",
+  "start": 206.54,
+  "end": 207.86,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0006210.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.32
+ },
+ {
+  "type": "speech",
+  "label": "Выводят случай, когда ломенат нидяльного качества и замки плохо заходит.",
+  "start": 207.86,
+  "end": 211.54,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0006300.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.68
+ },
+ {
+  "type": "speech",
+  "label": "Так он случай можно взять какой-нибудь маленький кусочек.",
+  "start": 211.54,
+  "end": 214.7,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0006390.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.16
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.23",
+  "start": 212.0,
+  "end": 212.0,
+  "confidence": 0.77,
+  "frame": "data/frames/net_89f5c442b6/0006360.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Оломената и вот так вот замок его вставить.",
+  "start": 214.7,
+  "end": 217.66,
+  "confidence": 0.509,
+  "frame": "data/frames/net_89f5c442b6/0006480.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.96
+ },
+ {
+  "type": "speech",
+  "label": "Легоньком латочком подстучать и как правило за счёлкиваются хорошо.",
+  "start": 217.66,
+  "end": 222.54,
+  "confidence": 0.497,
+  "frame": "data/frames/net_89f5c442b6/0006600.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.88
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 222.0,
+  "end": 225.0,
+  "confidence": 0.652,
+  "frame": "data/frames/net_89f5c442b6/0006660.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 232.0,
+  "end": 241.0,
+  "confidence": 0.831,
+  "frame": "data/frames/net_89f5c442b6/0007170.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 9.0
+ },
+ {
+  "type": "speech",
+  "label": "Как правильность, я уделт примыкание под ввернным полотного.",
+  "start": 232.62,
+  "end": 235.22,
+  "confidence": 0.497,
+  "frame": "data/frames/net_89f5c442b6/0007020.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.6
+ },
+ {
+  "type": "speech",
+  "label": "Закончиваться ломинат должен ровно под ввернным полотного вот 20 будет дверь,",
+  "start": 235.7,
+  "end": 239.86,
+  "confidence": 0.497,
+  "frame": "data/frames/net_89f5c442b6/0007140.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.16
+ },
+ {
+  "type": "speech",
+  "label": "и вот так от посерединки.",
+  "start": 239.86,
+  "end": 241.26,
+  "confidence": 0.497,
+  "frame": "data/frames/net_89f5c442b6/0007230.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.4
+ },
+ {
+  "type": "speech",
+  "label": "Отмечаем пломинат, здесь он будет заканчиваться.",
+  "start": 241.86,
+  "end": 244.42,
+  "confidence": 0.497,
+  "frame": "data/frames/net_89f5c442b6/0007290.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.56
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 243.0,
+  "end": 246.0,
+  "confidence": 0.644,
+  "frame": "data/frames/net_89f5c442b6/0007350.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "speech",
+  "label": "Самый правильный вариант – это укладка ломината, а потом установка дверной коротки.",
+  "start": 244.42,
+  "end": 248.98,
+  "confidence": 0.673,
+  "frame": "data/frames/net_89f5c442b6/0007410.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.56
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.54",
+  "start": 246.0,
+  "end": 246.0,
+  "confidence": 0.456,
+  "frame": "data/frames/net_89f5c442b6/0007380.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.44",
+  "start": 248.0,
+  "end": 248.0,
+  "confidence": 0.562,
+  "frame": "data/frames/net_89f5c442b6/0007440.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Но чаще всего двери уже установлены и никто их здесь доставать не собирается.",
+  "start": 248.98,
+  "end": 253.06,
+  "confidence": 0.673,
+  "frame": "data/frames/net_89f5c442b6/0007530.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.08
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.44",
+  "start": 250.0,
+  "end": 250.0,
+  "confidence": 0.558,
+  "frame": "data/frames/net_89f5c442b6/0007500.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Поэтому аккуратненько отчерчиваем и лобзиком вырезаем, так вот подвернул коротку, чтобы получился маленький маленький зазов.",
+  "start": 253.06,
+  "end": 260.7,
+  "confidence": 0.673,
+  "frame": "data/frames/net_89f5c442b6/0007710.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 7.64
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.04",
+  "start": 254.0,
+  "end": 254.0,
+  "confidence": 0.963,
+  "frame": "data/frames/net_89f5c442b6/0007620.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=-0.00",
+  "start": 260.0,
+  "end": 260.0,
+  "confidence": 1.0,
+  "frame": "data/frames/net_89f5c442b6/0007800.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "И потом этот зазор за массовым герметиком есть специальные герметики, которые приблизительно будут подходить под цвет ломината.",
+  "start": 260.7,
+  "end": 266.26,
+  "confidence": 0.673,
+  "frame": "data/frames/net_89f5c442b6/0007890.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 5.56
+ },
+ {
+  "type": "speech",
+  "label": "Если такого герметика не найдете, можно просто обычным без цветным, все люди привлизительно так.",
+  "start": 266.26,
+  "end": 270.66,
+  "confidence": 0.673,
+  "frame": "data/frames/net_89f5c442b6/0008040.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 4.4
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.05",
+  "start": 268.0,
+  "end": 268.0,
+  "confidence": 0.949,
+  "frame": "data/frames/net_89f5c442b6/0008040.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Вот это аккуратненько, потому герметика замажится.",
+  "start": 270.66,
+  "end": 273.18,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008160.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.52
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.14",
+  "start": 271.0,
+  "end": 271.0,
+  "confidence": 0.863,
+  "frame": "data/frames/net_89f5c442b6/0008130.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Тогда вы сами вокруг трубы нужно тоже смотреть, что был за зором.",
+  "start": 273.18,
+  "end": 275.98,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008250.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.8
+ },
+ {
+  "type": "speech",
+  "label": "3-5 мм приблизительно вырезает, это либо коронка,",
+  "start": 275.98,
+  "end": 279.5,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008340.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.52
+ },
+ {
+  "type": "speech",
+  "label": "можно либо ловзиком.",
+  "start": 279.5,
+  "end": 280.58,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008400.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.08
+ },
+ {
+  "type": "speech",
+  "label": "Паруслов, про последнюю полоску.",
+  "start": 280.58,
+  "end": 282.42,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008430.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.84
+ },
+ {
+  "type": "speech",
+  "label": "Вот она здесь не целая.",
+  "start": 282.42,
+  "end": 284.06,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008490.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.64
+ },
+ {
+  "type": "speech",
+  "label": "Вот где-то приблизительно, вот так будет.",
+  "start": 284.06,
+  "end": 286.06,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008550.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.0
+ },
+ {
+  "type": "speech",
+  "label": "Собираю ее полностью.",
+  "start": 286.06,
+  "end": 287.78,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008610.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.72
+ },
+ {
+  "type": "speech",
+  "label": "Вот она.",
+  "start": 287.78,
+  "end": 288.78,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008640.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.0
+ },
+ {
+  "type": "speech",
+  "label": "Собрая на полностью.",
+  "start": 288.78,
+  "end": 289.78,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008670.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.0
+ },
+ {
+  "type": "speech",
+  "label": "И начинаем подмечать, сколько нам нужно обрезать?",
+  "start": 289.78,
+  "end": 292.42,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008730.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 2.64
+ },
+ {
+  "type": "object",
+  "label": "person",
+  "start": 291.0,
+  "end": 305.0,
+  "confidence": 0.817,
+  "frame": "data/frames/net_89f5c442b6/0008880.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 14.0
+ },
+ {
+  "type": "speech",
+  "label": "Делаем приблизительно на одну полоску.",
+  "start": 292.42,
+  "end": 295.58,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008820.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.16
+ },
+ {
+  "type": "speech",
+  "label": "Стрейт замерыв.",
+  "start": 295.58,
+  "end": 296.94,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008880.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.36
+ },
+ {
+  "type": "speech",
+  "label": "Вот так.",
+  "start": 296.94,
+  "end": 297.94,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008910.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.59",
+  "start": 297.0,
+  "end": 297.0,
+  "confidence": 0.41,
+  "frame": "data/frames/net_89f5c442b6/0008910.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Начинаем от 15 с половиной.",
+  "start": 297.94,
+  "end": 299.58,
+  "confidence": 0.53,
+  "frame": "data/frames/net_89f5c442b6/0008970.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 1.64
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.14",
+  "start": 303.0,
+  "end": 303.0,
+  "confidence": 0.857,
+  "frame": "data/frames/net_89f5c442b6/0009090.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.17",
+  "start": 305.0,
+  "end": 305.0,
+  "confidence": 0.833,
+  "frame": "data/frames/net_89f5c442b6/0009150.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=-0.01",
+  "start": 323.0,
+  "end": 323.0,
+  "confidence": 1.0,
+  "frame": "data/frames/net_89f5c442b6/0009690.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.30",
+  "start": 325.0,
+  "end": 325.0,
+  "confidence": 0.696,
+  "frame": "data/frames/net_89f5c442b6/0009750.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.55",
+  "start": 327.0,
+  "end": 327.0,
+  "confidence": 0.447,
+  "frame": "data/frames/net_89f5c442b6/0009810.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Синок, конечно, у вас не идеально ровно.",
+  "start": 329.58,
+  "end": 336.58,
+  "confidence": 0.534,
+  "frame": "data/frames/net_89f5c442b6/0009990.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 7.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.53",
+  "start": 331.0,
+  "end": 331.0,
+  "confidence": 0.471,
+  "frame": "data/frames/net_89f5c442b6/0009930.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.02",
+  "start": 334.0,
+  "end": 334.0,
+  "confidence": 0.976,
+  "frame": "data/frames/net_89f5c442b6/0010020.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=0.01",
+  "start": 336.0,
+  "end": 336.0,
+  "confidence": 0.995,
+  "frame": "data/frames/net_89f5c442b6/0010080.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ },
+ {
+  "type": "speech",
+  "label": "Получается, что на обвинад мы подрезали, он повторяет форму стены.",
+  "start": 336.58,
+  "end": 339.58,
+  "confidence": 0.534,
+  "frame": "data/frames/net_89f5c442b6/0010140.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 3.0
+ },
+ {
+  "type": "scene_change",
+  "label": "corr=-0.03",
+  "start": 339.0,
+  "end": 339.0,
+  "confidence": 1.0,
+  "frame": "data/frames/net_89f5c442b6/0010170.jpg",
+  "video_id": "net_89f5c442b6",
+  "duration": 0.0
+ }
+]

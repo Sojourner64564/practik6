@@ -1,0 +1,166 @@
+﻿video_id,type,label,start,end,duration,confidence,frame
+net_89f5c442b6,speech,"Паламина будут укладывать на стяжку, начинаем с укладки под ложки.",0.0,3.24,3.24,0.674,data/frames/net_89f5c442b6/0000060.jpg
+net_89f5c442b6,scene_change,corr=0.34,1.0,1.0,0.0,0.658,data/frames/net_89f5c442b6/0000030.jpg
+net_89f5c442b6,speech,Здесь нужно только обратить внимание на поверхность под ложки.,3.24,6.24,3.0,0.674,data/frames/net_89f5c442b6/0000150.jpg
+net_89f5c442b6,speech,"Если вот она рифленная, как здесь, то рифленная сторона и укладывается вниз.",6.24,10.28,4.04,0.674,data/frames/net_89f5c442b6/0000240.jpg
+net_89f5c442b6,object,person,8.0,11.0,3.0,0.622,data/frames/net_89f5c442b6/0000300.jpg
+net_89f5c442b6,scene_change,corr=0.59,8.0,8.0,0.0,0.412,data/frames/net_89f5c442b6/0000240.jpg
+net_89f5c442b6,speech,"Во время укладки под ложки удобно пользоваться,",10.28,12.4,2.12,0.674,data/frames/net_89f5c442b6/0000330.jpg
+net_89f5c442b6,object,person,12.0,15.0,3.0,0.674,data/frames/net_89f5c442b6/0000420.jpg
+net_89f5c442b6,speech,"малярным скотчем для того, чтобы фиксировать.",12.4,14.64,2.24,0.674,data/frames/net_89f5c442b6/0000420.jpg
+net_89f5c442b6,speech,Нужно обачитать количество полос на комнату.,14.64,17.16,2.52,0.674,data/frames/net_89f5c442b6/0000480.jpg
+net_89f5c442b6,scene_change,corr=0.56,15.0,15.0,0.0,0.442,data/frames/net_89f5c442b6/0000450.jpg
+net_89f5c442b6,speech,"Замеряем ширину одной полоски, без учёта за хка, 19 и 2.",17.16,21.6,4.44,0.674,data/frames/net_89f5c442b6/0000570.jpg
+net_89f5c442b6,scene_change,corr=0.21,18.0,18.0,0.0,0.794,data/frames/net_89f5c442b6/0000540.jpg
+net_89f5c442b6,speech,Потом замеряем ширину комнаты.,21.6,23.2,1.6,0.674,data/frames/net_89f5c442b6/0000660.jpg
+net_89f5c442b6,scene_change,corr=0.60,22.0,22.0,0.0,0.404,data/frames/net_89f5c442b6/0000660.jpg
+net_89f5c442b6,object,person,23.0,27.0,4.0,0.634,data/frames/net_89f5c442b6/0000690.jpg
+net_89f5c442b6,speech,"Вот стены, дустины.",23.2,24.4,1.2,0.674,data/frames/net_89f5c442b6/0000720.jpg
+net_89f5c442b6,speech,"Ну, на скомната почти 3 метров, верен в ширину комнаты,",24.4,27.8,3.4,0.603,data/frames/net_89f5c442b6/0000780.jpg
+net_89f5c442b6,speech,"у нас 299 сантиметров, и делим на ширину полоски от номината.",27.8,32.82,5.02,0.603,data/frames/net_89f5c442b6/0000900.jpg
+net_89f5c442b6,object,person,28.0,31.0,3.0,0.608,data/frames/net_89f5c442b6/0000870.jpg
+net_89f5c442b6,scene_change,corr=0.33,32.0,32.0,0.0,0.671,data/frames/net_89f5c442b6/0000960.jpg
+net_89f5c442b6,speech,"Значит, 299, поделите на 19-ти два.",32.82,36.36,3.54,0.603,data/frames/net_89f5c442b6/0001050.jpg
+net_89f5c442b6,scene_change,corr=0.57,34.0,34.0,0.0,0.433,data/frames/net_89f5c442b6/0001020.jpg
+net_89f5c442b6,speech,Получается 15 полосок с половиной.,36.36,38.66,2.3,0.603,data/frames/net_89f5c442b6/0001140.jpg
+net_89f5c442b6,scene_change,corr=0.21,37.0,37.0,0.0,0.789,data/frames/net_89f5c442b6/0001110.jpg
+net_89f5c442b6,speech,"Поломинка полоски, это у нас грубо говоря, 10антиметров.",38.66,41.54,2.88,0.603,data/frames/net_89f5c442b6/0001200.jpg
+net_89f5c442b6,speech,"10антиметров, если у нас, оставим сострою, вот здесь вот это очень плохо.",41.54,46.34,4.8,0.603,data/frames/net_89f5c442b6/0001320.jpg
+net_89f5c442b6,scene_change,corr=0.33,44.0,44.0,0.0,0.667,data/frames/net_89f5c442b6/0001320.jpg
+net_89f5c442b6,scene_change,corr=0.55,46.0,46.0,0.0,0.448,data/frames/net_89f5c442b6/0001380.jpg
+net_89f5c442b6,speech,"Это очень узенькая полоска, нам нужно сделать ее пошири.",46.34,49.2,2.86,0.603,data/frames/net_89f5c442b6/0001440.jpg
+net_89f5c442b6,speech,Ифина для этого делается предварительно расчёт.,49.2,51.42,2.22,0.603,data/frames/net_89f5c442b6/0001500.jpg
+net_89f5c442b6,speech,"Мы первую полоску, который начинаем делаем на ней подрез, то есть дело в ее погружи,",51.42,56.06,4.64,0.653,data/frames/net_89f5c442b6/0001620.jpg
+net_89f5c442b6,scene_change,corr=0.55,55.0,55.0,0.0,0.452,data/frames/net_89f5c442b6/0001650.jpg
+net_89f5c442b6,speech,"то есть получается весь ламина, то он сдвигается туда, и у нас 100 страны получается полоска поширя.",56.06,62.9,6.84,0.653,data/frames/net_89f5c442b6/0001770.jpg
+net_89f5c442b6,object,person,59.0,62.0,3.0,0.871,data/frames/net_89f5c442b6/0001770.jpg
+net_89f5c442b6,scene_change,corr=0.56,59.0,59.0,0.0,0.435,data/frames/net_89f5c442b6/0001770.jpg
+net_89f5c442b6,speech,"Ламинат имеет два вида, это с фаской, вот такой вот к дивидной швы и бесшовный.",62.9,67.3,4.4,0.653,data/frames/net_89f5c442b6/0001950.jpg
+net_89f5c442b6,object,person,64.0,71.0,7.0,0.746,data/frames/net_89f5c442b6/0002040.jpg
+net_89f5c442b6,speech,"Бесшовный ламинат его укладывать гораздо проще, то есть мы укладываем полоски.",67.3,70.78,3.48,0.653,data/frames/net_89f5c442b6/0002070.jpg
+net_89f5c442b6,scene_change,corr=0.48,70.0,70.0,0.0,0.521,data/frames/net_89f5c442b6/0002100.jpg
+net_89f5c442b6,speech,"И кусочек, который у нас остался, если он больше 25 сантиметров приблизительно, то мы его перемки укладываем в начале",70.78,78.62,7.84,0.653,data/frames/net_89f5c442b6/0002250.jpg
+net_89f5c442b6,speech,и дальше в обладваем следующую фолоску.,78.62,80.42,1.8,0.611,data/frames/net_89f5c442b6/0002400.jpg
+net_89f5c442b6,object,person,79.0,82.0,3.0,0.653,data/frames/net_89f5c442b6/0002430.jpg
+net_89f5c442b6,speech,"Главное, чтобы между вот этими шмами было более 25 000 см.",80.42,84.9,4.48,0.611,data/frames/net_89f5c442b6/0002490.jpg
+net_89f5c442b6,speech,"20 см тоже допустим, но желательно чуть побольше.",84.9,87.86,2.96,0.611,data/frames/net_89f5c442b6/0002580.jpg
+net_89f5c442b6,object,person,86.0,93.0,7.0,0.692,data/frames/net_89f5c442b6/0002580.jpg
+net_89f5c442b6,scene_change,corr=0.22,86.0,86.0,0.0,0.776,data/frames/net_89f5c442b6/0002580.jpg
+net_89f5c442b6,speech,"Что касается ломината с фаской, то этот ломинату",87.86,90.06,2.2,0.611,data/frames/net_89f5c442b6/0002670.jpg
+net_89f5c442b6,scene_change,corr=0.34,89.0,89.0,0.0,0.659,data/frames/net_89f5c442b6/0002670.jpg
+net_89f5c442b6,speech,пладивается по определенному правилу.,90.06,91.54,1.48,0.611,data/frames/net_89f5c442b6/0002730.jpg
+net_89f5c442b6,speech,"Самые красивые способа кладки, это смещение",91.54,94.02,2.48,0.611,data/frames/net_89f5c442b6/0002790.jpg
+net_89f5c442b6,speech,на 1-3 ломинат.,94.02,95.46,1.44,0.611,data/frames/net_89f5c442b6/0002850.jpg
+net_89f5c442b6,speech,При укладке ломината нужно следить,95.46,96.78,1.32,0.611,data/frames/net_89f5c442b6/0002880.jpg
+net_89f5c442b6,scene_change,corr=0.34,96.0,96.0,0.0,0.656,data/frames/net_89f5c442b6/0002880.jpg
+net_89f5c442b6,speech,"затем, чтобы отстены был за зор 5-7 миллиметров достаточно.",96.78,99.94,3.16,0.611,data/frames/net_89f5c442b6/0002940.jpg
+net_89f5c442b6,speech,Первое у меня начинало стелые полоски второе.,99.94,102.14,2.2,0.611,data/frames/net_89f5c442b6/0003030.jpg
+net_89f5c442b6,speech,"Я отрезал кусочек 1-3, а осталось.",102.14,105.38,3.24,0.611,data/frames/net_89f5c442b6/0003120.jpg
+net_89f5c442b6,object,person,103.0,109.0,6.0,0.653,data/frames/net_89f5c442b6/0003210.jpg
+net_89f5c442b6,scene_change,corr=0.59,104.0,104.0,0.0,0.412,data/frames/net_89f5c442b6/0003120.jpg
+net_89f5c442b6,speech,И третья полоска.,105.38,106.54,1.16,0.611,data/frames/net_89f5c442b6/0003180.jpg
+net_89f5c442b6,speech,Я отрезаю.,106.54,108.06,1.52,0.611,data/frames/net_89f5c442b6/0003210.jpg
+net_89f5c442b6,scene_change,corr=0.53,107.0,107.0,0.0,0.471,data/frames/net_89f5c442b6/0003210.jpg
+net_89f5c442b6,speech,Уже 1-3.,108.06,110.06,2.0,0.638,data/frames/net_89f5c442b6/0003270.jpg
+net_89f5c442b6,speech,"Вот так вот, у меня идет смещение с одинаковым шагом, 1-3 полоски.",110.06,114.86,4.8,0.638,data/frames/net_89f5c442b6/0003360.jpg
+net_89f5c442b6,scene_change,corr=0.24,111.0,111.0,0.0,0.761,data/frames/net_89f5c442b6/0003330.jpg
+net_89f5c442b6,object,person,113.0,118.0,5.0,0.644,data/frames/net_89f5c442b6/0003480.jpg
+net_89f5c442b6,speech,И вот такая вот кусочек он остается от целый полоски.,114.86,118.18,3.32,0.638,data/frames/net_89f5c442b6/0003510.jpg
+net_89f5c442b6,speech,"Его мы укладываем в конце, а к нему,",118.18,120.54,2.36,0.638,data/frames/net_89f5c442b6/0003570.jpg
+net_89f5c442b6,object,person,119.0,122.0,3.0,0.706,data/frames/net_89f5c442b6/0003630.jpg
+net_89f5c442b6,speech,вот маленький совсем кусочек отрезаем и в конце он как раз подходит.,120.54,123.98,3.44,0.638,data/frames/net_89f5c442b6/0003660.jpg
+net_89f5c442b6,speech,Берем полоску подоминаток и укладываем на предыдущую.,123.98,126.42,2.44,0.638,data/frames/net_89f5c442b6/0003750.jpg
+net_89f5c442b6,scene_change,corr=0.18,125.0,125.0,0.0,0.818,data/frames/net_89f5c442b6/0003750.jpg
+net_89f5c442b6,speech,"Не вставляю замок, просто укладываем здесь,",126.42,128.9,2.48,0.638,data/frames/net_89f5c442b6/0003840.jpg
+net_89f5c442b6,speech,"убираем стену, пока что за зор здесь не нужен.",128.9,131.86,2.96,0.638,data/frames/net_89f5c442b6/0003900.jpg
+net_89f5c442b6,speech,"Упираем стену и укладываем вот так вот, чтобы здесь замок не вставлял.",131.86,135.7,3.84,0.638,data/frames/net_89f5c442b6/0004020.jpg
+net_89f5c442b6,scene_change,corr=0.56,132.0,132.0,0.0,0.437,data/frames/net_89f5c442b6/0003960.jpg
+net_89f5c442b6,speech,Берем следующую полоску.,135.7,137.5,1.8,0.638,data/frames/net_89f5c442b6/0004110.jpg
+net_89f5c442b6,speech,"и соединяем замок, который торцевой.",137.5,140.94,3.44,0.529,data/frames/net_89f5c442b6/0004170.jpg
+net_89f5c442b6,scene_change,corr=0.17,139.0,139.0,0.0,0.828,data/frames/net_89f5c442b6/0004170.jpg
+net_89f5c442b6,speech,"Соединяем так вот встагок, делаем, чтобы они были ровно между собой и опускаем.",140.94,147.06,6.12,0.529,data/frames/net_89f5c442b6/0004320.jpg
+net_89f5c442b6,scene_change,corr=0.21,147.0,147.0,0.0,0.792,data/frames/net_89f5c442b6/0004410.jpg
+net_89f5c442b6,object,person,148.0,154.0,6.0,0.735,data/frames/net_89f5c442b6/0004500.jpg
+net_89f5c442b6,speech,А нас все замок соединился.,149.58,152.14,2.56,0.529,data/frames/net_89f5c442b6/0004530.jpg
+net_89f5c442b6,speech,"Немножко больше по размеру, поэтому берем переворачиваем.",152.14,155.58,3.44,0.529,data/frames/net_89f5c442b6/0004620.jpg
+net_89f5c442b6,scene_change,corr=0.36,154.0,154.0,0.0,0.644,data/frames/net_89f5c442b6/0004620.jpg
+net_89f5c442b6,object,person,155.0,159.0,4.0,0.731,data/frames/net_89f5c442b6/0004710.jpg
+net_89f5c442b6,speech,"Так вот, отрезанная сторона, что это.",156.58,158.86,2.28,0.529,data/frames/net_89f5c442b6/0004740.jpg
+net_89f5c442b6,speech,Отмечаем.,158.86,159.9,1.04,0.529,data/frames/net_89f5c442b6/0004770.jpg
+net_89f5c442b6,speech,Вот это у нас получается заполнное шлина.,159.9,161.42,1.52,0.529,data/frames/net_89f5c442b6/0004830.jpg
+net_89f5c442b6,speech,"Ну для того, чтобы был зазор, сбок с дрона, ступаем.",161.42,163.66,2.24,0.529,data/frames/net_89f5c442b6/0004890.jpg
+net_89f5c442b6,speech,Немножко.,163.66,164.66,1.0,0.529,data/frames/net_89f5c442b6/0004920.jpg
+net_89f5c442b6,speech,И тут мечаем ставим угольник отчерчиваем.,164.66,170.18,5.52,0.458,data/frames/net_89f5c442b6/0005010.jpg
+net_89f5c442b6,speech,"И отрезаем это либо церпуляк или боловсим,",170.18,174.98,4.8,0.458,data/frames/net_89f5c442b6/0005190.jpg
+net_89f5c442b6,scene_change,corr=0.31,171.0,171.0,0.0,0.692,data/frames/net_89f5c442b6/0005130.jpg
+net_89f5c442b6,scene_change,corr=0.11,173.0,173.0,0.0,0.891,data/frames/net_89f5c442b6/0005190.jpg
+net_89f5c442b6,speech,"так как у нас уже получился, теперь берем повосы,",174.98,178.38,3.4,0.458,data/frames/net_89f5c442b6/0005310.jpg
+net_89f5c442b6,object,person,176.0,182.0,6.0,0.8,data/frames/net_89f5c442b6/0005340.jpg
+net_89f5c442b6,speech,"какой-то и сдвигаем вот так, чтобы за зор был и здесь",178.38,184.26,5.88,0.458,data/frames/net_89f5c442b6/0005430.jpg
+net_89f5c442b6,scene_change,corr=0.03,182.0,182.0,0.0,0.968,data/frames/net_89f5c442b6/0005460.jpg
+net_89f5c442b6,loud_peak,-16.9 dB,183.0,183.5,0.5,0.507,data/frames/net_89f5c442b6/0005490.jpg
+net_89f5c442b6,speech,и стость прами. Потом мы соединяем вот этот вот за,184.26,187.54,3.28,0.458,data/frames/net_89f5c442b6/0005580.jpg
+net_89f5c442b6,scene_change,corr=0.19,185.0,185.0,0.0,0.815,data/frames/net_89f5c442b6/0005550.jpg
+net_89f5c442b6,speech,лучше всего вот так вот статяно предыдущий номинат и потом берем,187.54,190.74,3.2,0.458,data/frames/net_89f5c442b6/0005670.jpg
+net_89f5c442b6,speech,то есть он также приподнимаем и за счет киваем замол.,190.74,194.82,4.08,0.509,data/frames/net_89f5c442b6/0005790.jpg
+net_89f5c442b6,speech,Раз за счет молся.,194.82,196.54,1.72,0.509,data/frames/net_89f5c442b6/0005880.jpg
+net_89f5c442b6,speech,Двигаемся дальше.,196.54,198.54,2.0,0.509,data/frames/net_89f5c442b6/0005940.jpg
+net_89f5c442b6,object,person,197.0,203.0,6.0,0.696,data/frames/net_89f5c442b6/0006000.jpg
+net_89f5c442b6,speech,Здесь приподнимаем опа и все.,198.54,201.38,2.84,0.509,data/frames/net_89f5c442b6/0006000.jpg
+net_89f5c442b6,speech,Никто не нужно.,201.38,204.02,2.64,0.509,data/frames/net_89f5c442b6/0006090.jpg
+net_89f5c442b6,speech,Никто из них усилий применять тоже не нужно.,204.02,206.54,2.52,0.509,data/frames/net_89f5c442b6/0006150.jpg
+net_89f5c442b6,object,person,205.0,209.0,4.0,0.89,data/frames/net_89f5c442b6/0006240.jpg
+net_89f5c442b6,scene_change,corr=0.58,205.0,205.0,0.0,0.417,data/frames/net_89f5c442b6/0006150.jpg
+net_89f5c442b6,speech,Все легко за счетывается.,206.54,207.86,1.32,0.509,data/frames/net_89f5c442b6/0006210.jpg
+net_89f5c442b6,speech,"Выводят случай, когда ломенат нидяльного качества и замки плохо заходит.",207.86,211.54,3.68,0.509,data/frames/net_89f5c442b6/0006300.jpg
+net_89f5c442b6,speech,Так он случай можно взять какой-нибудь маленький кусочек.,211.54,214.7,3.16,0.509,data/frames/net_89f5c442b6/0006390.jpg
+net_89f5c442b6,scene_change,corr=0.23,212.0,212.0,0.0,0.77,data/frames/net_89f5c442b6/0006360.jpg
+net_89f5c442b6,speech,Оломената и вот так вот замок его вставить.,214.7,217.66,2.96,0.509,data/frames/net_89f5c442b6/0006480.jpg
+net_89f5c442b6,speech,Легоньком латочком подстучать и как правило за счёлкиваются хорошо.,217.66,222.54,4.88,0.497,data/frames/net_89f5c442b6/0006600.jpg
+net_89f5c442b6,object,person,222.0,225.0,3.0,0.652,data/frames/net_89f5c442b6/0006660.jpg
+net_89f5c442b6,object,person,232.0,241.0,9.0,0.831,data/frames/net_89f5c442b6/0007170.jpg
+net_89f5c442b6,speech,"Как правильность, я уделт примыкание под ввернным полотного.",232.62,235.22,2.6,0.497,data/frames/net_89f5c442b6/0007020.jpg
+net_89f5c442b6,speech,"Закончиваться ломинат должен ровно под ввернным полотного вот 20 будет дверь,",235.7,239.86,4.16,0.497,data/frames/net_89f5c442b6/0007140.jpg
+net_89f5c442b6,speech,и вот так от посерединки.,239.86,241.26,1.4,0.497,data/frames/net_89f5c442b6/0007230.jpg
+net_89f5c442b6,speech,"Отмечаем пломинат, здесь он будет заканчиваться.",241.86,244.42,2.56,0.497,data/frames/net_89f5c442b6/0007290.jpg
+net_89f5c442b6,object,person,243.0,246.0,3.0,0.644,data/frames/net_89f5c442b6/0007350.jpg
+net_89f5c442b6,speech,"Самый правильный вариант – это укладка ломината, а потом установка дверной коротки.",244.42,248.98,4.56,0.673,data/frames/net_89f5c442b6/0007410.jpg
+net_89f5c442b6,scene_change,corr=0.54,246.0,246.0,0.0,0.456,data/frames/net_89f5c442b6/0007380.jpg
+net_89f5c442b6,scene_change,corr=0.44,248.0,248.0,0.0,0.562,data/frames/net_89f5c442b6/0007440.jpg
+net_89f5c442b6,speech,Но чаще всего двери уже установлены и никто их здесь доставать не собирается.,248.98,253.06,4.08,0.673,data/frames/net_89f5c442b6/0007530.jpg
+net_89f5c442b6,scene_change,corr=0.44,250.0,250.0,0.0,0.558,data/frames/net_89f5c442b6/0007500.jpg
+net_89f5c442b6,speech,"Поэтому аккуратненько отчерчиваем и лобзиком вырезаем, так вот подвернул коротку, чтобы получился маленький маленький зазов.",253.06,260.7,7.64,0.673,data/frames/net_89f5c442b6/0007710.jpg
+net_89f5c442b6,scene_change,corr=0.04,254.0,254.0,0.0,0.963,data/frames/net_89f5c442b6/0007620.jpg
+net_89f5c442b6,scene_change,corr=-0.00,260.0,260.0,0.0,1.0,data/frames/net_89f5c442b6/0007800.jpg
+net_89f5c442b6,speech,"И потом этот зазор за массовым герметиком есть специальные герметики, которые приблизительно будут подходить под цвет ломината.",260.7,266.26,5.56,0.673,data/frames/net_89f5c442b6/0007890.jpg
+net_89f5c442b6,speech,"Если такого герметика не найдете, можно просто обычным без цветным, все люди привлизительно так.",266.26,270.66,4.4,0.673,data/frames/net_89f5c442b6/0008040.jpg
+net_89f5c442b6,scene_change,corr=0.05,268.0,268.0,0.0,0.949,data/frames/net_89f5c442b6/0008040.jpg
+net_89f5c442b6,speech,"Вот это аккуратненько, потому герметика замажится.",270.66,273.18,2.52,0.53,data/frames/net_89f5c442b6/0008160.jpg
+net_89f5c442b6,scene_change,corr=0.14,271.0,271.0,0.0,0.863,data/frames/net_89f5c442b6/0008130.jpg
+net_89f5c442b6,speech,"Тогда вы сами вокруг трубы нужно тоже смотреть, что был за зором.",273.18,275.98,2.8,0.53,data/frames/net_89f5c442b6/0008250.jpg
+net_89f5c442b6,speech,"3-5 мм приблизительно вырезает, это либо коронка,",275.98,279.5,3.52,0.53,data/frames/net_89f5c442b6/0008340.jpg
+net_89f5c442b6,speech,можно либо ловзиком.,279.5,280.58,1.08,0.53,data/frames/net_89f5c442b6/0008400.jpg
+net_89f5c442b6,speech,"Паруслов, про последнюю полоску.",280.58,282.42,1.84,0.53,data/frames/net_89f5c442b6/0008430.jpg
+net_89f5c442b6,speech,Вот она здесь не целая.,282.42,284.06,1.64,0.53,data/frames/net_89f5c442b6/0008490.jpg
+net_89f5c442b6,speech,"Вот где-то приблизительно, вот так будет.",284.06,286.06,2.0,0.53,data/frames/net_89f5c442b6/0008550.jpg
+net_89f5c442b6,speech,Собираю ее полностью.,286.06,287.78,1.72,0.53,data/frames/net_89f5c442b6/0008610.jpg
+net_89f5c442b6,speech,Вот она.,287.78,288.78,1.0,0.53,data/frames/net_89f5c442b6/0008640.jpg
+net_89f5c442b6,speech,Собрая на полностью.,288.78,289.78,1.0,0.53,data/frames/net_89f5c442b6/0008670.jpg
+net_89f5c442b6,speech,"И начинаем подмечать, сколько нам нужно обрезать?",289.78,292.42,2.64,0.53,data/frames/net_89f5c442b6/0008730.jpg
+net_89f5c442b6,object,person,291.0,305.0,14.0,0.817,data/frames/net_89f5c442b6/0008880.jpg
+net_89f5c442b6,speech,Делаем приблизительно на одну полоску.,292.42,295.58,3.16,0.53,data/frames/net_89f5c442b6/0008820.jpg
+net_89f5c442b6,speech,Стрейт замерыв.,295.58,296.94,1.36,0.53,data/frames/net_89f5c442b6/0008880.jpg
+net_89f5c442b6,speech,Вот так.,296.94,297.94,1.0,0.53,data/frames/net_89f5c442b6/0008910.jpg
+net_89f5c442b6,scene_change,corr=0.59,297.0,297.0,0.0,0.41,data/frames/net_89f5c442b6/0008910.jpg
+net_89f5c442b6,speech,Начинаем от 15 с половиной.,297.94,299.58,1.64,0.53,data/frames/net_89f5c442b6/0008970.jpg
+net_89f5c442b6,scene_change,corr=0.14,303.0,303.0,0.0,0.857,data/frames/net_89f5c442b6/0009090.jpg
+net_89f5c442b6,scene_change,corr=0.17,305.0,305.0,0.0,0.833,data/frames/net_89f5c442b6/0009150.jpg
+net_89f5c442b6,scene_change,corr=-0.01,323.0,323.0,0.0,1.0,data/frames/net_89f5c442b6/0009690.jpg
+net_89f5c442b6,scene_change,corr=0.30,325.0,325.0,0.0,0.696,data/frames/net_89f5c442b6/0009750.jpg
+net_89f5c442b6,scene_change,corr=0.55,327.0,327.0,0.0,0.447,data/frames/net_89f5c442b6/0009810.jpg
+net_89f5c442b6,speech,"Синок, конечно, у вас не идеально ровно.",329.58,336.58,7.0,0.534,data/frames/net_89f5c442b6/0009990.jpg
+net_89f5c442b6,scene_change,corr=0.53,331.0,331.0,0.0,0.471,data/frames/net_89f5c442b6/0009930.jpg
+net_89f5c442b6,scene_change,corr=0.02,334.0,334.0,0.0,0.976,data/frames/net_89f5c442b6/0010020.jpg
+net_89f5c442b6,scene_change,corr=0.01,336.0,336.0,0.0,0.995,data/frames/net_89f5c442b6/0010080.jpg
+net_89f5c442b6,speech,"Получается, что на обвинад мы подрезали, он повторяет форму стены.",336.58,339.58,3.0,0.534,data/frames/net_89f5c442b6/0010140.jpg
+net_89f5c442b6,scene_change,corr=-0.03,339.0,339.0,0.0,1.0,data/frames/net_89f5c442b6/0010170.jpg

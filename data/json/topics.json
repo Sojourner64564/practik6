@@ -1,0 +1,16 @@
+{
+ "method": "kmeans",
+ "clusters": [
+  {
+   "id": 0,
+   "label": "Тема 1",
+   "terms": [],
+   "videos": [
+    "net_89f5c442b6"
+   ]
+  }
+ ],
+ "assignment": {
+  "net_89f5c442b6": 0
+ }
+}
